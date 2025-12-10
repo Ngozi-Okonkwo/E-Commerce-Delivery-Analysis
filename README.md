@@ -29,7 +29,7 @@ The analysis revealed systemic challenges, only 40% of orders were delivered on 
 
 ## **Data Sources**
 
-This dataset was downlaoded from Kaggle. You can learn more about it [here](https://www.kaggle.com/datasets/prachi13/customer-analytics)
+This dataset was downloaded from Kaggle. You can learn more about it [here](https://www.kaggle.com/datasets/prachi13/customer-analytics)
 
 The dataset used for model building contained 10999 observations of 12 variables.
 The data contains the following information:
