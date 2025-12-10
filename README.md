@@ -106,7 +106,7 @@ This ensured a solid foundation for accurate reporting.
 
 ### **Shipping and Logistics Performance**
 
-
+![logisticsperformance](logisticsperformance.png)
 
 **Key KPIs:**
 
@@ -138,6 +138,8 @@ Higher-cost products did not experience faster delivery.
 
 ### **Delivery Delay Drivers**
 
+![delaydrivers](delaydrivers.png)
+
 #### **Discount Levels**
 
 * High discount (40%+): 100% delayed
@@ -164,6 +166,8 @@ Priority handling is not working as intended.
 ---
 
 ### **Customer Satisfaction and Experience**
+
+![custsatisfaction](custsatisfaction.png)
 
 **Customer Ratings**
 
